@@ -10,7 +10,8 @@
   * React
 - 💞️ I’m looking to collaborate on
   * Web3 and NFT Projects!
-- 📫 How to reach me ...
+- 📫 How to reach me 
+  * Coming soon...
 <!---
 - 👀 I’m interested in ...
 --->
