@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @dr-noid
+# Hi, I’m @dr-noid 👋
 
-Currently dabbling in Web3/NFT development
-<!--- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+### Computer Science student based in the Netherlands
+
+- See my Portfolio @ [ebkir.com](https://ebkir.com)
+
+- 🌱 I’m currently learning
+  * C++
+  * Solidity
+  * React
+- 💞️ I’m looking to collaborate on
+  * Web3 and NFT Projects!
 - 📫 How to reach me ...
+<!---
+- 👀 I’m interested in ...
 --->
 
 <!---
