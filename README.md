@@ -2,7 +2,7 @@
 
 ### Computer Science student based in the Netherlands
 
-- See my Portfolio @ [ebkir.com](https://ebkir.com)
+- See my Portfolio @ [ebkir.com](https://ebkir.com) (WIP)
 
 - 🌱 I’m currently learning
   * C++
