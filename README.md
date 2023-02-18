@@ -4,12 +4,17 @@
 
 - See my Portfolio @ [ebkir.com](https://ebkir.com) (WIP)
 
-- 🌱 I’m currently learning
+
+- 🏗️ I'm currently working on
+  * NFT Trading Tools
+  * Web Apps using [SvelteKit](https://github.com/sveltejs/kit) (it's awesome)
+  * School Projects
+- 🌱 I’m currently using
+  * TypeScript
   * C++
   * Solidity
-  * React
-- 💞️ I’m looking to collaborate on
-  * Web3 and NFT Projects!
+- You can contact me if you want help with
+  * NFT Projects
 - 📫 How to reach me 
   * Coming soon...
 <!---
