@@ -2,9 +2,6 @@
 
 ### Computer Science student based in the Netherlands
 
-- See my Portfolio @ [ebkir.com](https://ebkir.com) (WIP)
-
-
 - 🏗️ I'm currently working on
   * NFT Trading Tools
   * Web Apps using [SvelteKit](https://github.com/sveltejs/kit) (it's awesome)
